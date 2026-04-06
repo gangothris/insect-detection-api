@@ -7,5 +7,5 @@ numpy
 opencv-python
 
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.1.0+cpu
-torchvision==0.16.0+cpu
+torch==2.11.0+cpu
+torchvision==0.26.0+cpu
